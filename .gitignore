@@ -1,0 +1,4 @@
+/pub-cli/node_modules/*
+/pub-services/node_modules/*
+/pub-rest-api/node_modules/*
+/node_modules/*

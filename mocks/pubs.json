@@ -1,0 +1,78 @@
+[
+    {
+        "name": "l'Alexa=ndra",
+        "owner": {
+            "firstName": "Nicolas",
+            "lastName": "Hodicq",
+            "mail": "nhodicq@bewizyu.com"
+        },
+        "openDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "openHours": {
+            "start": 10,
+            "end": 1
+        },
+        "beers": [
+            {
+                "type": "Blonde",
+                "name": "Tripe Karmeliet"
+            }
+        ]
+    },
+    {
+        "name": "le Berthom",
+        "owner": {
+            "firstName": "Nicolas",
+            "lastName": "Hodicq",
+            "mail": "nhodicq@bewizyu.co"
+        },
+        "openDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "openHours": {
+            "start": 10,
+            "end": 1
+        },
+        "beers": [
+            {
+                "type": "Blonde",
+                "name": "Triple Karmeliet"
+            }
+        ]
+    },
+    {
+        "name": "le Gros Bar",
+        "owner": {
+            "firstName": "Nicolas",
+            "lastName": "Hodicq",
+            "mail": "nhodicq@bewizyu.com"
+        },
+        "openDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "openHours": {
+            "start": 10,
+            "end": 1
+        },
+        "beers": [
+            {
+                "type": "Blonde",
+                "name": "Triple Karmeliet"
+            }
+        ]
+    }
+]
